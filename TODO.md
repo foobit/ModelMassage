@@ -1,8 +1,12 @@
 # todo
 * implement other alignment types
-* package *.obj, *.mtl, *.png to archive (.zip)
 * support other model formats
 * drag-n-drop GUI
 * verbose option
-* specify UP direction as command line argument
+* specify up direction as command line argument
+* add templated options for various engines (e.g. --unreal, --unity3d)
+* add support for options and input files from file/stdin
 * GL previewer
+
+stretch
+* package *.obj, *.mtl, *.png to archive (.zip) _used for Mixamo_
